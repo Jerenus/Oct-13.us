@@ -4,5 +4,4 @@ We have to admit that at this point, we have not yet decided in which direction 
 
 
 ## To be continued...
-* 
-*
+
